@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LinearLayoutHorizontal</string>
+    <string name="textview1">P 1</string>
+    <string name="textview2">P 2</string>
+    <string name="textview3">P 3</string>
+</resources>
